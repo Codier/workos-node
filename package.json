@@ -34,7 +34,7 @@
   "dependencies": {
     "axios": "0.20.0",
     "pluralize": "8.0.0",
-    "query-string": "6.13.2"
+    "query-string": "6.13.3"
   },
   "devDependencies": {
     "@types/jest": "26.0.14",
