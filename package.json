@@ -10,7 +10,7 @@
   ],
   "volta": {
     "node": "10.24.1",
-    "yarn": "1.22.11"
+    "yarn": "1.22.13"
   },
   "main": "dist/src/workos.js",
   "files": [
